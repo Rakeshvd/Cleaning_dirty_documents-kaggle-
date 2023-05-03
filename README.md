@@ -1,5 +1,5 @@
 # Cleaning_dirty_documents-kaggle-
-This is a kaggle compitation project.
+This is a kaggle competition project.
 
 I have used simple 1-layer encoder and decoder with 64-neuron autoencoder.
 
